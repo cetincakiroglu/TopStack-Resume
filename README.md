@@ -14,6 +14,6 @@ Coded by Çetin Çakıroğlu.
 ---
 ## Special thanks to Jose for giving me permission code his design.
 
-![image info](/assets/images/screenshot.jpg)
+![image info](/assets/images/screenshot.png)
 
 
