@@ -11,7 +11,7 @@ Designed By: Jose Urbano.
                 
 Coded by Çetin Çakıroğlu.
 ---
-## Special thanks to Jose for giving me permission code his design.
+## Special thanks to Jose for giving me permission to code his design.
 
 [Design link](https://dribbble.com/shots/14865260-TopStack-Resume-Homepage-Exploration-v3)
 
