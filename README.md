@@ -1,6 +1,5 @@
 # TopStack Resume Landing-Page
 
-## TopStack Resume Landing and Pricing Page
 URL: https://sleepy-archimedes-6a9715.netlify.app/index.html
 
 ---
