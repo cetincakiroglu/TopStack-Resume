@@ -1,6 +1,6 @@
 # TopStack Resume Landing-Page
 
-URL: https://sleepy-archimedes-6a9715.netlify.app/index.html
+URL: https://topstackresume.netlify.app/
 
 ---
 Designed By: Jose Urbano. 
