@@ -65,6 +65,9 @@ p {
     border: 1px solid #fff;
     color: #fff;
 }
+button:focus{
+    box-shadow:none !important;
+}
 
 #link_btn:hover>a {
     color: #fff;
